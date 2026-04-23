@@ -1,4 +1,5 @@
 # Tesla Autopsy: Data, Demand, and the Limits of the Hype
+**By Artemisia Elizabeth**
 
 ## FSD & Robotaxi
 
